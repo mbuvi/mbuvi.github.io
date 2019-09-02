@@ -1,2 +1,2 @@
 # mbuvi.github.io
-This is my profile
+I am a software developer and integrator and this is my bio.
